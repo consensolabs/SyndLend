@@ -10,20 +10,20 @@ module.exports = {
     },
     menuLinks: [
       {
-        name: 'Services',
+        name: 'About Us',
         link: '/services',
       },
       {
-        name: 'Team',
+        name: 'Our Team',
         link: '/team',
       },
       {
-        name: 'Testimonials',
+        name: 'Contacts',
         link: '/testimonials',
       },
       {
-        name: 'Contact',
-        link: '/contact',
+        name: 'White Paper',
+        link: 'https://drive.google.com/drive/folders/181umW0YGcd7dMRvpm_J_NNWqJ1h6jZgu',
       },
     ],
   },
@@ -56,7 +56,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: guid ? guid : 'UA-XXX-1',
+        trackingId: guid || 'UA-XXX-1',
         // Puts tracking script in the head instead of the body
         head: false,
       },

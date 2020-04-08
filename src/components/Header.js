@@ -14,7 +14,7 @@ class Header extends React.Component {
     };
   }
 
-  toggleMenu = menuActive => {
+  toggleMenu = (menuActive) => {
     this.setState(prevState => ({
       menuActive: !prevState.menuActive,
     }));
@@ -26,7 +26,8 @@ class Header extends React.Component {
         <div className="container">
           <div className="logo">
             <Link to="/">
-              <img alt="Figurit Homepage" src={logo} />
+              {/* <img alt="Figurit Homepage" src={logo} /> */}
+              <img src={require('../images/syndlend-logo.png')} />
             </Link>
           </div>
           <div className="logo-mobile">

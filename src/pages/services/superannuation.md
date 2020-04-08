@@ -1,17 +1,15 @@
 ---
-path: '/services/superannuation'
-title: "Superannuation"
+path: "/services/superannuation"
+title: "Tools & Support"
 date: 2018-11-28T15:14:54+10:00
 image: "/services/default.png"
 featured: true
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Docs open source tools for the SyndLend to support seamless integration.
 
-## Ne verba patulosque numen vix libet
+<!-- ## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -51,4 +49,4 @@ Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+tamen lentis spectat, Titania est animo. -->

@@ -13,15 +13,15 @@ const Team = (props) => {
           <div className="row">
             <div className="col-12">
               <h1>Meet The Team</h1>
-              <p>
-                Our team of qualified accountants and financial consultants can help your business
-                at any stage of it’s growth.
-              </p>
+              <p>Our team of developers and financial consultants</p>
             </div>
           </div>
         </div>
       </div>
-
+      <br />
+      <br />
+      <br />
+      <br />
       <div className="container pb-6">
         <div className="row">
           {teams.map(edge => (

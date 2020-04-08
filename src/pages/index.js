@@ -19,10 +19,10 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>Serif - Gatsby Small Business Theme.</h1>
+          <h1>SyndLend</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            DLT based syndicated loan platform to create a speedy, cost efficient, transparent,
+            dis-intermediated, yet compliant system. Read more about it in our white paper.
           </p>
         </div>
       </div>
