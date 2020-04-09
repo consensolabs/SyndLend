@@ -66,7 +66,7 @@ const Call = props => (
           />
           <div style={{ fontSize: '1.1rem' }} className="img_content-1">
             <span style={{ fontSize: '2rem' }}>&ldquo;</span>
-{' '}
+            {' '}
 A loan syndicated platform supported
             by distributed ledger technology is expected to revolutionize
           </div>
@@ -119,6 +119,32 @@ A loan syndicated platform supported
         client application will communicate with deployed contracts through the secure JSON-RPC
         interface exposed by DLT nodes.
 {' '}
+      </div>
+    </div>
+
+    <div className="technology_container">
+      <div
+        style={{
+          fontSize: '2.5rem',
+          textAlign: 'center',
+          marginBottom: '3rem',
+          marginTop: '7rem',
+        }}
+        className="technology-heading"
+      >
+        Roadmap
+      </div>
+      <div style={{ textAlign: "center" }} className="roadmap_container-1">
+        <img
+          style={{ width: '70%', marginTop: '0.5rem', marginBottom: '1rem' }}
+          src={require('../images/roadmap1.png')}
+        />
+      </div>
+      <div style={{ textAlign: "center" }} className="roadmap_container-1">
+        <img
+          style={{ width: '70%', marginTop: '0rem', marginBottom: '1rem', marginLeft: "4.2rem" }}
+          src={require('../images/roadmap2.png')}
+        />
       </div>
     </div>
   </div>

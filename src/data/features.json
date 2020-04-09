@@ -1,8 +1,13 @@
 [
   {
-    "title": "Convenient and efficient",
+    "title": "Decentralized loan trade desk",
     "description": "Instant and easy deployment to devise an efficient syndicated loan market",
     "image": "/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Quicker settlement",
+    "description": "Each entity receives all the relevant information about the loan, market status without having to trust the single source",
+    "image": "/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Transparent and privacy preserved",
@@ -10,7 +15,22 @@
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Quicker settlement",
+    "title": "Cost-effective negotiations",
+    "description": "Integration of the token system and instant verification through smart contracts speeds up the settlement time",
+    "image": "/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Data safety with replicated data",
+    "description": "Integration of the token system and instant verification through smart contracts speeds up the settlement time",
+    "image": "/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Authenticity of the events",
+    "description": "Integration of the token system and instant verification through smart contracts speeds up the settlement time",
+    "image": "/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Untampered transactions",
     "description": "Integration of the token system and instant verification through smart contracts speeds up the settlement time",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
