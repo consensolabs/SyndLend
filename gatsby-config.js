@@ -2,8 +2,8 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'SyndLend',
+    description: 'DLT based syndicated platform',
     contact: {
       phone: 'XXX XXX XXX',
       email: 'zerostaticthemes@gmail.com',
@@ -17,10 +17,10 @@ module.exports = {
         name: 'Our Team',
         link: '/team',
       },
-      {
-        name: 'Contacts',
-        link: '/testimonials',
-      },
+      // {
+      //   name: 'Contacts',
+      //   link: '/testimonials',
+      // },
       {
         name: 'White Paper',
         link: 'https://drive.google.com/drive/folders/181umW0YGcd7dMRvpm_J_NNWqJ1h6jZgu',

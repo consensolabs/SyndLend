@@ -147,6 +147,20 @@ A loan syndicated platform supported
         />
       </div>
     </div>
+    <div className="technology_container">
+      <div
+        style={{
+          fontSize: '2.5rem',
+          textAlign: 'center',
+          marginBottom: '3rem',
+          marginTop: '7rem',
+        }}
+        className="technology-heading"
+      >
+        Technology Used
+      </div>
+      <div>technology</div>
+    </div>
   </div>
 );
 
