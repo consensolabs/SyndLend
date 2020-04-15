@@ -18,7 +18,7 @@ const Testimonials = (props) => {
         </div>
       </div>
 
-      <div className="container pb-6">
+      {/* <div className="container pb-6">
         <div className="row">
           {testimonials.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-6 mb-1">
@@ -36,7 +36,21 @@ const Testimonials = (props) => {
             </div>
           ))}
         </div>
+      </div> */}
+      <div style={{ textAlign: "center" }} className="contacts_container">
+        <div className="logo-image-container">
+          <img src={require('../../images/consensologo.jpeg')} />
+        </div>
+        <div style={{ marginTop: "1rem", fontSize: "1.5rem" }}>91springboard, 512/10, Service Lane, Outer Ring Rd, Mahadevapura,</div>
+        <div style={{ marginBottom: "1rem", fontSize: "1.5rem" }}>Bengaluru, Karnataka 560048</div>
+        <div style={{ marginBottom: "3rem" }} className="contact_button_container">
+          <a href="google.com"><button className="btn btn-primary">Email</button></a>
+          <a href="google.com"><button className="btn btn-primary">GitHub</button></a>
+          <a href="google.com"><button className="btn btn-primary">LinkedIn</button></a>
+
+        </div>
       </div>
+
     </Layout>
   );
 };

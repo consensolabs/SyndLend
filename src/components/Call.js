@@ -20,7 +20,7 @@ const Call = props => (
       {/* </div> */}
       {props.button && (
         <div className="call-box-bottom">
-          <a href="/contact" className="button">
+          <a href="/testimonials" className="button">
             Request Demo
           </a>
         </div>
