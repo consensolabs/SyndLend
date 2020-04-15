@@ -17,14 +17,14 @@ module.exports = {
         name: 'Our Team',
         link: '/team',
       },
-      // {
-      //   name: 'Contacts',
-      //   link: '/testimonials',
-      // },
       {
-        name: 'White Paper',
-        link: 'https://drive.google.com/drive/folders/181umW0YGcd7dMRvpm_J_NNWqJ1h6jZgu',
+        name: 'Contacts',
+        link: '/testimonials',
       },
+      // {
+      //   name: 'Resources',
+      //   link: 'https://drive.google.com/drive/folders/181umW0YGcd7dMRvpm_J_NNWqJ1h6jZgu',
+      // },
     ],
   },
   plugins: [

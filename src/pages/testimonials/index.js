@@ -12,7 +12,7 @@ const Testimonials = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>Testimonals</h1>
+              <h1>Contacts</h1>
             </div>
           </div>
         </div>

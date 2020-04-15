@@ -1,5 +1,11 @@
 import React from 'react';
 import { graphql, StaticQuery, Link } from 'gatsby';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import $ from 'jquery';
+import Popper from 'popper.js';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+import './MenuCss.css';
+
 
 const Menu = (props) => {
   const { menuLinks } = props.data.site.siteMetadata;
@@ -11,6 +17,21 @@ const Menu = (props) => {
             <Link to={link.link}>{link.name}</Link>
           </li>
         ))}
+
+
+        <div class="dropdown">
+          <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Resources
+  </a>
+
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+            <a class="dropdown-item" target="_blank" href="https://syndlend.com/syndlend-whitepaper-v1.pdf">White Paper</a>
+            <a class="dropdown-item" target="_blank" href="https://drive.google.com/file/d/15TI89giDX7DIGlmRkvRY62hMwELxpT8a/view?usp=sharing">Brochure</a>
+
+          </div>
+        </div>
+
+
       </ul>
     </div>
   );
