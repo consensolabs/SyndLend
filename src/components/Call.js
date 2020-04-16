@@ -147,7 +147,7 @@ A loan syndicated platform supported
         />
       </div>
     </div>
-    <div className="technology_container">
+    {/* <div className="technology_container">
       <div
         style={{
           fontSize: '2.5rem',
@@ -160,7 +160,7 @@ A loan syndicated platform supported
         Technology Used
       </div>
       <div>technology</div>
-    </div>
+    </div> */}
   </div>
 );
 

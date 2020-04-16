@@ -66,8 +66,8 @@ const Home = (props) => {
               <div className="feature">
                 {edge.node.image && (
                   <div className="feature-image">
-                    {/* <img src={withPrefix(edge.node.image)} /> */}
-                    <img width="50%" src="https://img.icons8.com/nolan/64/debt.png" />
+                    <img src={withPrefix(edge.node.image)} />
+                    {/* <img width="50%" src="https://img.icons8.com/nolan/64/debt.png" /> */}
                   </div>
                 )}
                 <h2 className="feature-title">{edge.node.title}</h2>

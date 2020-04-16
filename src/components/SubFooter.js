@@ -14,11 +14,11 @@ const SubFooter = props => (
               </li> */}
               <li>
                 {/* <strong>Email: </strong> */}
-{' '}
+                {' '}
                 {/* <a href={`mailto:${props.data.site.siteMetadata.contact.email}`}>
                   {props.data.site.siteMetadata.contact.email}
                 </a> */}
-                <a href="consensolabs.com">Consenso Labs</a>
+                <a href="http://consensolabs.com/">Consenso Labs</a>
               </li>
             </ul>
             {/* <ul>

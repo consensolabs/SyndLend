@@ -20,7 +20,7 @@ const Menu = (props) => {
 
 
         <div class="dropdown">
-          <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <a style={{ backgroundColor: "white", color: "blue" }} class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             Resources
   </a>
 

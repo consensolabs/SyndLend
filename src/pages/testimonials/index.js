@@ -8,7 +8,7 @@ const Testimonials = (props) => {
   return (
     <Layout bodyClass="page-testimonials">
       <SEO title="Testimonials" />
-      <div className="intro">
+      <div style={{ marginTop: "0rem", paddingTop: "3rem" }} className="intro">
         <div className="container">
           <div className="row">
             <div className="col-12">
@@ -44,9 +44,10 @@ const Testimonials = (props) => {
         <div style={{ marginTop: "1rem", fontSize: "1.5rem" }}>91springboard, 512/10, Service Lane, Outer Ring Rd, Mahadevapura,</div>
         <div style={{ marginBottom: "1rem", fontSize: "1.5rem" }}>Bengaluru, Karnataka 560048</div>
         <div style={{ marginBottom: "3rem" }} className="contact_button_container">
-          <a href="google.com"><button className="btn btn-primary">Email</button></a>
-          <a href="google.com"><button className="btn btn-primary">GitHub</button></a>
-          <a href="google.com"><button className="btn btn-primary">LinkedIn</button></a>
+          <a href="https://github.com/consensolabs"><img src={require('../../images/github-logo.png')} /></a>
+          <a href="mailto:info@consensolabs.com?Subject=Request%20Demo"><img style={{ width: "4%" }} src={require('../../images/email-logo.png')} /></a>
+          <a href="https://www.linkedin.com/company/consensolabs/"><img src={require('../../images/linkedin-logo.png')} /></a>
+
 
         </div>
       </div>

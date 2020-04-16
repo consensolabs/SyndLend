@@ -2,36 +2,36 @@
   {
     "title": "Decentralized loan trade desk",
     "description": "",
-    "image": "../../static/logo/loan.svg"
+    "image": "/features/decentralized-loan-new.png"
   },
   {
     "title": "Quicker settlement",
     "description": "",
-    "image": "/features/noun_The Process_1885341.png"
+    "image": "/features/quicker-settlement.png"
   },
   {
     "title": "Transparent and privacy preserved",
     "description": "",
-    "image": "/features/noun_The Process_1885341.svg"
+    "image": "/features/privacy-preserved.png"
   },
   {
     "title": "Cost-effective negotiations",
     "description": "",
-    "image": "/features/noun_3d modeling_1885342.svg"
+    "image": "/features/cost-effective.png"
   },
   {
     "title": "Data safety with replicated data",
     "description": "",
-    "image": "/features/noun_3d modeling_1885342.svg"
+    "image": "/features/data-safety.png"
   },
   {
     "title": "Authenticity of the events",
     "description": "",
-    "image": "/features/noun_3d modeling_1885342.svg"
+    "image": "/features/authenticity.png"
   },
   {
     "title": "Untampered transactions",
     "description": "",
-    "image": "/features/noun_3d modeling_1885342.svg"
+    "image": "/features/transaction.png"
   }
 ]
