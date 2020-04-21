@@ -3,10 +3,10 @@ path: "/team/peter-van-eijk"
 title: "Koshik Raj"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "/team/koshik_new_new.jpg"
+image: "/team/koshik.jpg"
 jobtitle: "Co-founder"
 email: ""
-linkedinurl: "https://www.linkedin.com/in/koshikraj/"
+linkedinurl: ""
 weight: 1
 ---
 
